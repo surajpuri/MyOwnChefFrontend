@@ -76,10 +76,10 @@ export class Index extends Component {
           <Table celled>
                         <Table.Header>
                         <Table.Row>
-                            <Table.HeaderCell>fooditem</Table.HeaderCell>
+                            <Table.HeaderCell>Fooditem</Table.HeaderCell>
                             <Table.HeaderCell>Description</Table.HeaderCell>
                             <Table.HeaderCell>Howtomake</Table.HeaderCell>
-                            <Table.HeaderCell>benifits</Table.HeaderCell>
+                            <Table.HeaderCell>Benifits</Table.HeaderCell>
                             <Table.HeaderCell>Food Image</Table.HeaderCell>
                         </Table.Row>
                         </Table.Header>

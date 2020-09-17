@@ -233,6 +233,18 @@ margin-left: 470px;
   min-height: 100%;
   background-size: cover;
   
+
+}
+.hj1{
+  /* background-image:url("https://image.freepik.com/free-psd/top-view-fast-food-black-background-mock-up_23-2148321326.jpg"); */
+  position: fixed;
+  margin-top: 10px;
+  margin-bottom: 0px;
+  margin-left: -228px;
+  min-width: 100%;
+  min-height: 100%;
+  background-size: cover;
+  
 }
 .hg{
   /* background-image:url("https://image.freepik.com/free-psd/top-view-fast-food-black-background-mock-up_23-2148321326.jpg"); */
@@ -250,6 +262,14 @@ margin-left: 470px;
   line-height: 35px;
   color:red;
 } 
+.h21{
+  
+  position: center;
+  margin-left:50px;
+  font-size:40px;
+  line-height: 35px; 
+  color:red;
+} 
 .login{
   /* width: 100px;
   height: 10px; */
@@ -258,6 +278,13 @@ margin-left: 470px;
   margin-top: 20px;
   margin-left: 1100px;
   margin-top: 0px;
+font-size: large;
+}
+.login5{
+  color:Black;
+  font-style: bold;
+  margin-left: 500px;
+  margin-top: 40px;
 font-size: large;
 }
 .user{

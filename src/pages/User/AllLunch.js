@@ -52,11 +52,11 @@ export class AllLunch extends Component {
                 <Table celled>
                     <Table.Header>
                     <Table.Row>
-                        <Table.HeaderCell>foodItem</Table.HeaderCell>
-                        <Table.HeaderCell>description</Table.HeaderCell>
-                        <Table.HeaderCell>howtomake</Table.HeaderCell>
-                        <Table.HeaderCell>benifits</Table.HeaderCell>
-                        <Table.HeaderCell>lunchImage</Table.HeaderCell>
+                        <Table.HeaderCell>FoodItem</Table.HeaderCell>
+                        <Table.HeaderCell>Description</Table.HeaderCell>
+                        <Table.HeaderCell>Howtomake</Table.HeaderCell>
+                        <Table.HeaderCell>Benifits</Table.HeaderCell>
+                        <Table.HeaderCell>LunchImage</Table.HeaderCell>
                         
                     </Table.Row>
                     </Table.Header>

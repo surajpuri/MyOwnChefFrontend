@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 
 export class BreakFast extends Component {
     render() {
-        const {foodItem, description, howtomake, benifits, uploadImage, onChange, onSubmitBreakfast } = this.props;
+        const {foodItem, description, howtomake, benifits,uploadImage, onChange, onSubmitBreakfast } = this.props;
         return (
             <Container>
                 <Grid>
@@ -41,10 +41,11 @@ export class BreakFast extends Component {
                                 onChange={(event) => onChange(event)}
                             />
                             <Form.Input
-                                label='breakfastImage'
+                                label='Breakfast Image'
                                 type='file'
-                                name='breakfastImage'                   
-                                onChange={(event) => uploadImage(event)}
+                                name='breakfastImage'
+                                                   
+                                onChange={(event) =>uploadImage(event)}
                             />
             
                             

@@ -3,7 +3,7 @@ import swal from 'sweetalert';
 import Breakfast from './Breakfast';
 import request from '../../api/request';
 
-export class AllbreakfastContainer extends Component {
+export class breakfastContainer extends Component {
     constructor() {
         super();
         this.state = {
@@ -56,7 +56,7 @@ export class AllbreakfastContainer extends Component {
     } 
 
     render() {
-        console.log(this.state);
+    
         return (
             <Breakfast
                 {...this.state}
@@ -68,4 +68,4 @@ export class AllbreakfastContainer extends Component {
     }
 }
 
-export default AllbreakfastContainer;
+export default breakfastContainer;
